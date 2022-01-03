@@ -112,7 +112,17 @@
  * @param {string} s
  * @return {number}
  */
-var myAtoi = function(s) {
+var myAtoi = function (s) {
+  const ans = parseInt(s, 10)
+
+  if (isNaN(ans)) {
+    return 0
+  } else if (ans < Math.pow(-2, 31) || ans > Math.pow(2, 31) - 1) {
+    return ans < Math.pow(-2, 31) ? Math.pow(-2, 31) : Math.pow(2, 31) - 1
+  } else {
+    return ans
+  }
 
 };
 //leetcode submit region end(Prohibit modification and deletion)
+
