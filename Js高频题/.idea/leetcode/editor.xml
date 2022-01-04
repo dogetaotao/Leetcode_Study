@@ -30,6 +30,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[21]合并两个有序链表.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[21]合并两个有序链表.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[21]合并两个有序链表.js" />
+              <option name="questionId" value="21" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[23]合并K个升序链表.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[23]合并K个升序链表.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[23]合并K个升序链表.js" />
+              <option name="questionId" value="23" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2]Add Two Numbers.js">
           <value>
             <LeetcodeEditor>
@@ -63,6 +81,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[5]最长回文子串.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[5]最长回文子串.js" />
               <option name="questionId" value="5" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[647]回文子串.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[647]回文子串.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[647]回文子串.js" />
+              <option name="questionId" value="647" />
             </LeetcodeEditor>
           </value>
         </entry>
