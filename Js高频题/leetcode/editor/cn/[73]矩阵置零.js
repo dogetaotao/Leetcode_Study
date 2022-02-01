@@ -55,7 +55,6 @@ var setZeroes = function (matrix) {
       for (let j = 0; j < i.length; j++) {
         if (i[j] === 0) {
           needZero.push(j)
-          i[j] = 0
         }
         i[j] = 0
       }
