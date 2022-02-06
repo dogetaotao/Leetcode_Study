@@ -300,6 +300,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[84]柱状图中最大的矩形.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[84]柱状图中最大的矩形.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[84]柱状图中最大的矩形.js" />
+              <option name="questionId" value="84" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[88]合并两个有序数组.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[88]合并两个有序数组.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[88]合并两个有序数组.js" />
+              <option name="questionId" value="88" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[8]字符串转换整数 (atoi).js">
           <value>
             <LeetcodeEditor>
