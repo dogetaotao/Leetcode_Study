@@ -21,6 +21,33 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[103]二叉树的锯齿形层序遍历.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[103]二叉树的锯齿形层序遍历.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[103]二叉树的锯齿形层序遍历.js" />
+              <option name="questionId" value="103" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[104]二叉树的最大深度.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[104]二叉树的最大深度.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[104]二叉树的最大深度.js" />
+              <option name="questionId" value="104" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[105]从前序与中序遍历序列构造二叉树.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.js" />
+              <option name="questionId" value="105" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[10]正则表达式匹配.js">
           <value>
             <LeetcodeEditor>
