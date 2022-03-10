@@ -53,13 +53,31 @@
  * @param {number} n
  * @return {number}
  */
-var uniquePaths = function(m, n) {
+var uniquePaths = function (m, n) {
 
   let ans = 1
-  for (let x = n, y =1 ; y < m; x++, y++) {
-    ans = Math.floor(ans*x / y)
+  for (let x = n, y = 1; y < m; x++, y++) {
+    ans = Math.floor(ans * x / y)
   }
 
   return ans
+};
+
+var uniquePaths1 = function (m, n) {
+
+  const dp = Array(m).fill().map(item => Array(n))
+  for (let i = 0; i < m; i++) {
+    dp[i][0] = 1
+  }
+  for (let i = 0; i < n; i++) {
+    dp[0][i] = 1
+  }
+
+  for (let i = 1; i < m; i++) {
+    for (let j = 1; j < n; j++) {
+      dp[i][j] = dp[i - 1][j] + dp[i][j - 1]
+    }
+  }
+  return dp[m - 1][n - 1]
 };
 //leetcode submit region end(Prohibit modification and deletion)
