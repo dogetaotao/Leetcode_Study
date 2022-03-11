@@ -37,6 +37,7 @@ var integerBreak = function (n) {
   dp[2] = 1
   for (let i = 3; i <= n; i++) {
     for (let j = 1; j < i - 1; j++) {
+      //保证dp[i]一直是最大的
       dp[i] = Math.max(dp[i],dp[i - j] * j, (i - j) * j)
     }
   }
